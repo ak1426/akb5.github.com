@@ -243,9 +243,6 @@ input:focus::placeholder,textarea:focus::placeholder {
 }
 
 @media(max-width: 767px){
-    .offset-1 {
-        margin-left: 5.333333%;
-    }
 }
 /* ------contact us section------- */
 .contact_us_section{
