@@ -48,7 +48,7 @@ input:focus::placeholder,textarea:focus::placeholder {
 .header{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,168,255,0.3),rgba(0,168,255,0.3)), url("/assets/image/1.jpg");
+/*     background-image: linear-gradient(rgba(0,168,255,0.3),rgba(0,168,255,0.3)), url("/assets/image/1.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     clip-path: polygon(100% 0,100% 75%,50% 100%, 0 75%, 0 0);
